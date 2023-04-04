@@ -1,4 +1,14 @@
-# Getting Started with Create React App and Redux
+# Flashcards
+
+Coursework assignment project to exercise Redux, Redux Toolkit and the React-Redux library. Goal is to create a functional flashcards app where user can make and store cards in quizzes, sorted by various custom topics. In particular, the challenge here was to create Redux store slices and connect the logic of the front inputs with thunk functions (thunk is a function returned by another function). 
+
+
+
+
+
+=========================
+
+## Getting Started with Create React App and Redux
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
